@@ -43,9 +43,5 @@ print("Number of words in the file = {}".format(num_words))
 ![image](https://github.com/hariharana59/Word-count/assets/144980130/786288af-a9e3-4971-838d-5872780fcfed)
 ![image](https://github.com/hariharana59/Word-count/assets/144980130/8bc58a25-53a5-441e-bc9b-d0742a9acab6)
 
-## Result :
-The program to find the word count is successfully completed
-
-
 ## RESULT:
 Thus the program is written to find the word count from a text.
